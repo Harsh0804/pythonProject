@@ -3,6 +3,6 @@
 
 
 f=open("hello.txt","w")
-f.writelines()
+f.writelines("hii")
 
 f.close
