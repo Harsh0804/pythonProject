@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03dbb476-9e5c-4def-a915-e94e0ffb5fee" name="Changes" comment="ryjrh">
-      <change beforePath="$PROJECT_DIR$/oops.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663569318107</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="ryjrh">
+      <created>1663569578435</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1663569578435</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
