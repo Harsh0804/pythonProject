@@ -1,6 +1,6 @@
 class A:
     def a():
-        print("Hello Students")
+        print(" Hello Students")
 class B(A):
     def b():
         print(" Welcome")
@@ -9,6 +9,6 @@ class C(B):
         print(" TO second home")
 
 c1=C
-c1.b()
 c1.a()
+c1.b()
 c1.c()
