@@ -17,3 +17,5 @@ def call_me():
     messagebox.showinfo("Welcome","Successfully submitted")
 
 b=Button(window,text="Click Here",command=call_me).grid(row=4,column=0)
+
+window.mainloop()
