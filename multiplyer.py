@@ -20,6 +20,6 @@ class Number:
 
 
     obj=Number()
-    print(obj.add())
+    print(obj.add(5,10))
 
 
