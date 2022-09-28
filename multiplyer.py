@@ -15,7 +15,6 @@ class Number:
     def multiply(cls,a):
         return  a* cls.Multiplier
 
-
     @staticmethod
     def subtract(b,c):
         return b-c
