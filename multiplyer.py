@@ -21,5 +21,5 @@ class Number:
 
     obj=Number()
     print(obj.add(5,10))
-
+    print(Number.Multiply(10))
 
