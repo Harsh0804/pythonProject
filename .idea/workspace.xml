@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03dbb476-9e5c-4def-a915-e94e0ffb5fee" name="Changes" comment="ryjrh">
-      <change afterPath="$PROJECT_DIR$/widgets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numberpyramid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sqlconnector.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
