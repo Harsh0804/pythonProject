@@ -7,3 +7,5 @@ def vowel(s):
 s=input("Enter the character:- ")
 result=vowel(s)
 print(result)
+
+
